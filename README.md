@@ -235,12 +235,6 @@ Severity: High
 
 ---
 
-## 🤖 7. AI-Based Decision Support
-
-The project demonstrates how AI can assist maintenance engineers by analyzing historical and current maintenance reports.
-
----
-
 # 🧠 AI Used in the Project
 
 The project combines multiple AI concepts.
